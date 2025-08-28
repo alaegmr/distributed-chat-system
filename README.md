@@ -1,23 +1,11 @@
-### 💬 Distributed Chat System
+###  Java Distributed Chat Application
 
-A simple **Java-based distributed chat system** implemented as part of the *Distributed Information Systems* course.  
-This project demonstrates client-server communication, socket programming, and GUI interaction.
+A simple **distributed chat system** implemented in Java (Sockets + Swing GUI) for the **Systèmes d’Information Distribués (SID)** course.
 
----
+#### ✨ Features
+-  **Broadcast**: Send messages to all users
+-  **Multicast**: Send messages to selected users
+-  **Unicast**: Send direct messages to a single user
+-  **Connected users list** updated in real time
+-  **Swing GUI** for client-side interaction
 
-#### 🚀 Features
-- 🖥️ **Server** that handles multiple clients concurrently.  
-- 💬 **Chat client GUI** built in Java Swing.  
-- 🔗 Real-time messaging between multiple clients.  
-- 📡 Uses TCP sockets for communication.  
-
----
-
-#### 🛠️ Technologies
-- Java (Swing for GUI)  
-- Socket programming (TCP/IP)  
-- NetBeans (for project structure)  
-
----
-
-## 📂 Project Structure
