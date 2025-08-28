@@ -1,6 +1,6 @@
 ###  Java Distributed Chat Application
 
-A simple **distributed chat system** implemented in Java (Sockets + Swing GUI) for the **Systèmes d’Information Distribués (SID)** course.
+A simple **distributed chat system** implemented in Java (Sockets + Swing GUI) (SID)**
 
 #### ✨ Features
 -  **Broadcast**: Send messages to all users
